@@ -1,6 +1,6 @@
 # CovarianceClustering
 
-Functions used to implement the covariance clustering approach detailed in Forknall et al. (In prep)
+Functions used to implement the covariance clustering approach detailed in Forknall et al. (In prep). Also provided is the dataset corresponding to the motivating example presented in the paper.
 
 Functions depend on:
   - tidyverse
